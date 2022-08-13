@@ -31,3 +31,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coder1907&show_icons=true&locale=en" alt="coder1907" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder1907&" alt="coder1907" /></p>
+
+##just a har-working snake making  life difficult for a lazy person
+![snake gif](https://github.com/Coder1907/Coder1907/blob/output/github-contribution-grid-snake.gif)
+
+
